@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\ekm19\Documents\SheCodes!\Django\myenv"
+set "VIRTUAL_ENV=C:\Users\ekm19\DOCUME~1\GITHUB~1\DJANGO~1\Django\myenv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
